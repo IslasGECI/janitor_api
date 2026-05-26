@@ -19,12 +19,12 @@ def test_api_check_traps_ids():
     request = {
         "url": "/check_traps_ids",
         "files": {
-            "data_path": (
+            "positions_path": (
                 traps_positions_path,
                 file_like_traps_positions,
                 "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             ),
-            "initial_parameters_path": (
+            "mapsource_path": (
                 mapsource_path,
                 file_like_mapsource,
                 "text/tab-separated-values",
@@ -46,12 +46,12 @@ def test_api_check_traps_ids():
     request = {
         "url": "/check_traps_ids",
         "files": {
-            "data_path": (
+            "positions_path": (
                 traps_positions_path,
                 file_like_traps_positions,
                 "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
             ),
-            "initial_parameters_path": (
+            "mapsource_path": (
                 mapsource_path_with_missing_trap,
                 file_like_mapsource,
                 "text/tab-separated-values",

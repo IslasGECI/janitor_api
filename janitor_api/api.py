@@ -25,11 +25,8 @@ async def check_traps_ids(positions_path: UploadFile, mapsource_path: UploadFile
 
 def format_check_traps_ids_message(result):
     result_stderr_splitted = result.stderr.splitlines()
-    if result.returncode == 0:
-        result_message = result_stderr_splitted[0]
-    else:
-        result_message = result_stderr_splitted[1]
-    return result_message
+    index_of_message = result.returncode
+    return result_stderr_splitted[index_of_message]
 
 
 async def write_internal_file(uploaded_data_path):

@@ -19,8 +19,11 @@ async def check_traps_ids(data_path: UploadFile, initial_parameters_path: Upload
         f"readMS::check_traps('{data_path_filename}', '{initial_parameters_path_filename}')",
     ]
     result = subprocess.run(command, capture_output=True, text=True)
-    result_message = result.stderr.splitlines()[0]
-
+    result_stderr_splitted = result.stderr.splitlines()
+    if result.returncode == 0:
+        result_message = result_stderr_splitted[0]
+    else:
+        result_message = result_stderr_splitted[1]
     return JSONResponse(content={"message": result_message})
 
 

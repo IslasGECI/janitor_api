@@ -1,4 +1,12 @@
-FROM python:3
+FROM rocker/tidyverse
+RUN apt update && apt full-upgrade --yes && apt install --yes  \
+    python3-pip \
+    python3-venv
+# Crear entorno virtual
+RUN python3 -m venv /opt/venv
+RUN /opt/venv/bin/pip install --upgrade pip
+ENV PATH="/opt/venv/bin:$PATH"
+
 WORKDIR /workdir
 COPY . .
 RUN pip install --upgrade pip && pip install \

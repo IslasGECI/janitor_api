@@ -20,3 +20,5 @@ RUN pip install --upgrade pip && pip install \
     pytest-cov
 
 RUN R -e "pak::pkg_install('readMS=IslasGECI/read_mapsource@latest')"
+
+RUN make install

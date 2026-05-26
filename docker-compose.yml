@@ -1,0 +1,9 @@
+services:
+  islasgeci:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: islasgeci/dummy_transformations:latest
+    command: bash
+    volumes:
+      - $PWD:/workdir

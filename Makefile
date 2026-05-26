@@ -14,7 +14,7 @@ all: check coverage mutants
 		tests
 
 module = janitor_api
-codecov_token = 6c56bccb-1758-4ed9-8161-97c845591c26
+codecov_token = 686bbd6e-def9-40b8-9382-5d3332ba4419
 
 define lint
 	pylint \

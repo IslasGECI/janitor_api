@@ -1,0 +1,386 @@
+Grid	UTM
+Datum	WGS 84
+
+Header	Name	Description	Type	Position	Altitude	Depth	Proximity	Temperature	Display Mode	Color	Symbol	Facility	City	State	Country	Date Modified	Link	Categories
+
+Waypoint	TC-01-054-JA		User Waypoint	11 R 377196 3197029	0 m				Symbol	Unknown	Flag, Blue					4/7/2018 10:16:22 PM 		
+Waypoint	TC-01-055-JA		User Waypoint	11 R 377372 3197080	0 m				Symbol	Unknown	Flag, Blue					11/24/2021 5:05:52 PM 		
+Waypoint	TC-01-057-JA		User Waypoint	11 R 377837 3197134	0 m				Symbol	Unknown	Flag, Blue					11/24/2021 5:06:28 PM 		
+Waypoint	TC-01-058-JA		User Waypoint	11 R 378055 3197112	0 m				Symbol	Unknown	Flag, Blue					11/24/2021 5:06:57 PM 		
+Waypoint	TC-01-059-JA		User Waypoint	11 R 378421 3197178	0 m				Symbol	Unknown	Flag, Blue					4/7/2018 10:16:22 PM 		
+Waypoint	TC-01-499-EM		User Waypoint	11 R 376003 3197075					Symbol & Name	Unknown	Flag, Blue					6/27/2021 4:04:17 PM 		
+Waypoint	TC-01-PS2-CR		User Waypoint	11 R 376287 3196976					Symbol	Unknown	Flag, Blue					8/23/2018 7:44:54 PM 		
+Waypoint	TC-06-112-JC		User Waypoint	11 R 371752 3220944	1034 m				Symbol	Unknown	Flag, Blue					11/7/2019 7:37:29 AM 		
+Waypoint	TC-06-198-LM		User Waypoint	11 R 371528 3221072					Symbol	Unknown	Flag, Blue					10/8/2022 11:20:06 AM 		
+Waypoint	TC-06-209-KS		User Waypoint	11 R 371903 3221102	1001 m				Symbol & Name	Unknown	Flag, Blue					2/17/2025 10:28:02 AM 		
+Waypoint	TC-06-219-GC	CASAN	User Waypoint	11 R 371821 3221300	1015 m				Symbol & Name	Unknown	Flag, Blue					11/12/2025 9:29:55 AM 		
+Waypoint	TC-07-024-MA		User Waypoint	11 R 371751 3221503					Symbol	Unknown	Flag, Blue					11/1/2019 3:34:08 PM 		
+Waypoint	TC-07-026-KR		User Waypoint	11 R 371329 3221599	1074 m				Symbol	Unknown	Flag, Blue					10/26/2019 9:58:53 AM 		
+Waypoint	TC-07-027-KR		User Waypoint	11 R 371748 3221735	1009 m				Symbol	Unknown	Flag, Blue					10/26/2019 11:26:04 AM 		
+Waypoint	TC-07-030-PC		User Waypoint	11 R 371501 3221793	1038 m				Symbol	Unknown	Flag, Blue					10/26/2019 11:47:50 AM 		
+Waypoint	TC-07-031-PC		User Waypoint	11 R 371754 3221855	993 m				Symbol	Unknown	Flag, Blue					10/26/2019 10:58:39 AM 		
+Waypoint	TC-07-032-PC		User Waypoint	11 R 371712 3221980	996 m				Symbol	Unknown	Flag, Blue					10/26/2019 11:39:31 AM 		
+Waypoint	TP-01-053-JA		User Waypoint	11 R 377003 3196997	0 m				Symbol	Unknown	Triangle, Blue					4/7/2018 10:16:22 PM 		
+Waypoint	TP-01-504-ES		User Waypoint	11 R 376698 3196971					Symbol & Name	Unknown	Triangle, Blue					9/4/2024 3:32:30 PM 		
+Waypoint	TP-01-PS3-CR		User Waypoint	11 R 376402 3196956					Symbol	Unknown	Triangle, Blue					8/23/2018 7:45:17 PM 		
+
+Route	Linea 1	2.5 km	87� true	11 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-01-499-EM	0 m
+Route Waypoint	TC-01-PS2-CR	301 m	301 m	109� true
+Route Waypoint	TP-01-PS3-CR	417 m	117 m	99� true
+Route Waypoint	TP-01-504-ES	714 m	296 m	86� true
+Route Waypoint	TP-01-053-JA	1.0 km	306 m	84� true
+Route Waypoint	TC-01-054-JA	1.2 km	196 m	80� true
+Route Waypoint	TC-01-055-JA	1.4 km	183 m	73� true
+Route Waypoint	TC-01-056-JA	1.6 km	239 m	95� true
+Route Waypoint	TC-01-057-JA	1.9 km	241 m	70� true
+Route Waypoint	TC-01-058-JA	2.1 km	219 m	95� true
+Route Waypoint	TC-01-059-JA	2.5 km	372 m	79� true
+
+Route	Linea Aguaje	1.9 km	159� true	10 waypoints	
+
+Header	Waypoint Name	Distance	Leg Length	Course
+
+Route Waypoint	TC-07-026-KR	0 m
+Route Waypoint	TC-07-030-PC	260 m	260 m	41� true
+Route Waypoint	TC-07-032-PC	542 m	282 m	48� true
+Route Waypoint	TC-07-031-PC	675 m	133 m	161� true
+Route Waypoint	TC-07-027-KR	795 m	120 m	183� true
+Route Waypoint	TC-07-024-MA	1.0 km	233 m	179� true
+Route Waypoint	TC-06-219-GC	1.2 km	215 m	160� true
+Route Waypoint	TC-06-209-KS	1.5 km	215 m	157� true
+Route Waypoint	TC-06-112-JC	1.7 km	219 m	223� true
+Route Waypoint	TC-06-198-LM	1.9 km	259 m	299� true
+
+
+Header	Name	Start Time	Elapsed Time	Length	Average Speed	Link
+
+Track	Zona 01		0:00:00	6.4 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	11 R 380250 3201077		0 m
+Trackpoint	11 R 380020 3201185		0 m			254 m			295� true
+Trackpoint	11 R 379670 3201480		0 m			458 m			310� true
+Trackpoint	11 R 379228 3201490		0 m			442 m			271� true
+Trackpoint	11 R 378668 3201448		0 m			561 m			265� true
+Trackpoint	11 R 378427 3201361		0 m			257 m			249� true
+Trackpoint	11 R 378116 3201295		0 m			318 m			258� true
+Trackpoint	11 R 378057 3201295		0 m			59 m			269� true
+Trackpoint	11 R 377725 3201351		0 m			336 m			279� true
+Trackpoint	11 R 377301 3201490		0 m			447 m			288� true
+Trackpoint	11 R 377265 3201514		0 m			43 m			304� true
+Trackpoint	11 R 376876 3201598		0 m			398 m			282� true
+Trackpoint	11 R 376520 3201557		0 m			358 m			263� true
+Trackpoint	11 R 376472 3201547		0 m			49 m			258� true
+Trackpoint	11 R 376460 3201547		0 m			12 m			271� true
+Trackpoint	11 R 376282 3201501		0 m			183 m			255� true
+Trackpoint	11 R 375977 3201309		0 m			361 m			237� true
+Trackpoint	11 R 375587 3201420		0 m			405 m			285� true
+Trackpoint	11 R 375393 3201404		0 m			194 m			265� true
+Trackpoint	11 R 374982 3201167		0 m			475 m			239� true
+Trackpoint	11 R 374687 3201095		0 m			304 m			256� true
+Trackpoint	11 R 374379 3200747		0 m			466 m			221� true
+
+Track	Zona 02		0:00:00	6.3 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	11 R 380183 3205734		0 m
+Trackpoint	11 R 380069 3205596		0 m			179 m			219� true
+Trackpoint	11 R 379947 3205500		0 m			156 m			231� true
+Trackpoint	11 R 379770 3205518		0 m			177 m			275� true
+Trackpoint	11 R 379635 3205465		0 m			145 m			248� true
+Trackpoint	11 R 379399 3205415		0 m			241 m			257� true
+Trackpoint	11 R 379139 3205421		0 m			260 m			271� true
+Trackpoint	11 R 378982 3205452		0 m			160 m			281� true
+Trackpoint	11 R 378724 3205500		0 m			262 m			280� true
+Trackpoint	11 R 378497 3205546		0 m			232 m			281� true
+Trackpoint	11 R 378272 3205634		0 m			241 m			291� true
+Trackpoint	11 R 378034 3205638		0 m			238 m			270� true
+Trackpoint	11 R 377893 3205529		0 m			178 m			231� true
+Trackpoint	11 R 377780 3205448		0 m			139 m			234� true
+Trackpoint	11 R 377654 3205381		0 m			143 m			241� true
+Trackpoint	11 R 377458 3205288		0 m			217 m			244� true
+Trackpoint	11 R 377374 3205166		0 m			149 m			214� true
+Trackpoint	11 R 377303 3205018		0 m			165 m			205� true
+Trackpoint	11 R 377219 3204884		0 m			158 m			212� true
+Trackpoint	11 R 377080 3204805		0 m			160 m			239� true
+Trackpoint	11 R 376941 3204711		0 m			167 m			235� true
+Trackpoint	11 R 376736 3204730		0 m			206 m			275� true
+Trackpoint	11 R 376599 3204761		0 m			140 m			282� true
+Trackpoint	11 R 376518 3204831		0 m			108 m			310� true
+Trackpoint	11 R 376424 3204969		0 m			168 m			325� true
+Trackpoint	11 R 376245 3204957		0 m			179 m			266� true
+Trackpoint	11 R 376135 3204972		0 m			111 m			277� true
+Trackpoint	11 R 375889 3205057		0 m			260 m			289� true
+Trackpoint	11 R 375738 3205032		0 m			153 m			260� true
+Trackpoint	11 R 375625 3204827		0 m			235 m			208� true
+Trackpoint	11 R 375418 3204774		0 m			213 m			255� true
+Trackpoint	11 R 375270 3204792		0 m			149 m			276� true
+Trackpoint	11 R 375067 3204836		0 m			208 m			282� true
+Trackpoint	11 R 374835 3204826		0 m			232 m			267� true
+Trackpoint	11 R 374735 3204748		0 m			127 m			231� true
+
+Track	Zona 03		0:00:00	11.9 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	11 R 373980 3205555		0 m
+Trackpoint	11 R 374388 3207048		0 m			1.6 km			15� true
+Trackpoint	11 R 374105 3208261		0 m			1.3 km			346� true
+Trackpoint	11 R 374031 3208572		0 m			321 m			346� true
+Trackpoint	11 R 374129 3208736		0 m			191 m			30� true
+Trackpoint	11 R 374241 3208937		0 m			231 m			28� true
+Trackpoint	11 R 374311 3209187		0 m			261 m			15� true
+Trackpoint	11 R 374323 3209374		0 m			188 m			3� true
+Trackpoint	11 R 374434 3209506		0 m			173 m			39� true
+Trackpoint	11 R 374490 3209691		0 m			194 m			16� true
+Trackpoint	11 R 374504 3209698		0 m			16 m			63� true
+Trackpoint	11 R 374745 3210017		0 m			401 m			36� true
+Trackpoint	11 R 374966 3210322		0 m			378 m			35� true
+Trackpoint	11 R 375239 3210460		0 m			306 m			62� true
+Trackpoint	11 R 375614 3210856		0 m			546 m			43� true
+Trackpoint	11 R 376513 3211608		0 m			1.2 km			49� true
+Trackpoint	11 R 376632 3211533		0 m			141 m			122� true
+Trackpoint	11 R 376989 3211382		0 m			388 m			112� true
+Trackpoint	11 R 377438 3211364		0 m			449 m			92� true
+Trackpoint	11 R 378056 3211497		0 m			632 m			77� true
+Trackpoint	11 R 378432 3211302		0 m			424 m			117� true
+Trackpoint	11 R 378492 3211258		0 m			75 m			126� true
+Trackpoint	11 R 378839 3210928		0 m			479 m			133� true
+Trackpoint	11 R 379159 3210807		0 m			342 m			110� true
+Trackpoint	11 R 379251 3210762		0 m			103 m			116� true
+Trackpoint	11 R 379592 3210582		0 m			385 m			117� true
+Trackpoint	11 R 379607 3210582		0 m			16 m			89� true
+Trackpoint	11 R 379968 3210476		0 m			376 m			106� true
+Trackpoint	11 R 380438 3210738		0 m			539 m			60� true
+Trackpoint	11 R 380691 3211034		0 m			391 m			40� true
+
+Track	Zona 04		0:00:00	8.9 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	11 R 372276 3213178		0 m
+Trackpoint	11 R 372410 3213239		0 m			147 m			65� true
+Trackpoint	11 R 372560 3213582		0 m			376 m			23� true
+Trackpoint	11 R 372879 3213505		0 m			328 m			103� true
+Trackpoint	11 R 373198 3213546		0 m			321 m			82� true
+Trackpoint	11 R 373279 3213975		0 m			438 m			10� true
+Trackpoint	11 R 373690 3214192		0 m			465 m			61� true
+Trackpoint	11 R 374252 3214335		0 m			580 m			75� true
+Trackpoint	11 R 374726 3214376		0 m			475 m			84� true
+Trackpoint	11 R 374756 3214376		0 m			30 m			90� true
+Trackpoint	11 R 375248 3214567		0 m			528 m			68� true
+Trackpoint	11 R 375745 3214696		0 m			513 m			75� true
+Trackpoint	11 R 376092 3214737		0 m			349 m			83� true
+Trackpoint	11 R 376363 3214782		0 m			275 m			80� true
+Trackpoint	11 R 376865 3214963		0 m			534 m			69� true
+Trackpoint	11 R 377354 3214903		0 m			493 m			96� true
+Trackpoint	11 R 377761 3215013		0 m			421 m			74� true
+Trackpoint	11 R 378249 3214986		0 m			488 m			93� true
+Trackpoint	11 R 378312 3214971		0 m			65 m			103� true
+Trackpoint	11 R 378375 3214972		0 m			64 m			89� true
+Trackpoint	11 R 379119 3215164		0 m			768 m			75� true
+Trackpoint	11 R 379497 3215308		0 m			405 m			68� true
+Trackpoint	11 R 379972 3215265		0 m			476 m			95� true
+Trackpoint	11 R 380246 3215529		0 m			381 m			45� true
+
+Track	Zona 05		0:00:00	11.5 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	11 R 369175 3215811		0 m
+Trackpoint	11 R 369257 3215892		0 m			115 m			45� true
+Trackpoint	11 R 369362 3216109		0 m			242 m			25� true
+Trackpoint	11 R 369682 3216364		0 m			410 m			51� true
+Trackpoint	11 R 369962 3216590		0 m			361 m			50� true
+Trackpoint	11 R 370298 3216793		0 m			393 m			58� true
+Trackpoint	11 R 370667 3217013		0 m			430 m			58� true
+Trackpoint	11 R 371034 3217231		0 m			427 m			58� true
+Trackpoint	11 R 371273 3217464		0 m			334 m			45� true
+Trackpoint	11 R 371411 3217635		0 m			220 m			38� true
+Trackpoint	11 R 371514 3217669		0 m			108 m			71� true
+Trackpoint	11 R 371536 3217670		0 m			22 m			86� true
+Trackpoint	11 R 371598 3217723		0 m			81 m			49� true
+Trackpoint	11 R 371705 3217754		0 m			112 m			73� true
+Trackpoint	11 R 371786 3217774		0 m			83 m			76� true
+Trackpoint	11 R 371914 3217832		0 m			140 m			65� true
+Trackpoint	11 R 372042 3217880		0 m			137 m			69� true
+Trackpoint	11 R 372172 3217865		0 m			130 m			96� true
+Trackpoint	11 R 372314 3217940		0 m			161 m			61� true
+Trackpoint	11 R 372373 3218034		0 m			111 m			32� true
+Trackpoint	11 R 372446 3218078		0 m			86 m			58� true
+Trackpoint	11 R 372482 3218244		0 m			170 m			11� true
+Trackpoint	11 R 372495 3218372		0 m			130 m			5� true
+Trackpoint	11 R 372453 3218490		0 m			125 m			340� true
+Trackpoint	11 R 372399 3218592		0 m			116 m			331� true
+Trackpoint	11 R 372362 3218728		0 m			141 m			344� true
+Trackpoint	11 R 372387 3218753		0 m			35 m			44� true
+Trackpoint	11 R 372392 3218790		0 m			38 m			7� true
+Trackpoint	11 R 372428 3218830		0 m			54 m			41� true
+Trackpoint	11 R 372461 3218857		0 m			43 m			50� true
+Trackpoint	11 R 372490 3218881		0 m			38 m			49� true
+Trackpoint	11 R 372501 3218897		0 m			19 m			35� true
+Trackpoint	11 R 372487 3218916		0 m			23 m			324� true
+Trackpoint	11 R 372484 3218937		0 m			22 m			349� true
+Trackpoint	11 R 372486 3218959		0 m			23 m			5� true
+Trackpoint	11 R 372525 3218939		0 m			44 m			116� true
+Trackpoint	11 R 372594 3218901		0 m			79 m			118� true
+Trackpoint	11 R 372661 3218860		0 m			79 m			121� true
+Trackpoint	11 R 372731 3218794		0 m			96 m			133� true
+Trackpoint	11 R 372784 3218752		0 m			68 m			128� true
+Trackpoint	11 R 372831 3218722		0 m			56 m			122� true
+Trackpoint	11 R 372874 3218679		0 m			61 m			134� true
+Trackpoint	11 R 372922 3218642		0 m			60 m			127� true
+Trackpoint	11 R 372975 3218593		0 m			72 m			132� true
+Trackpoint	11 R 373010 3218540		0 m			64 m			146� true
+Trackpoint	11 R 373046 3218501		0 m			53 m			137� true
+Trackpoint	11 R 373084 3218459		0 m			56 m			138� true
+Trackpoint	11 R 373121 3218434		0 m			45 m			124� true
+Trackpoint	11 R 373128 3218404		0 m			31 m			165� true
+Trackpoint	11 R 373128 3218357		0 m			47 m			180� true
+Trackpoint	11 R 373144 3218327		0 m			34 m			151� true
+Trackpoint	11 R 373146 3218323		0 m			5 m			162� true
+Trackpoint	11 R 373170 3218293		0 m			38 m			140� true
+Trackpoint	11 R 373196 3218257		0 m			45 m			144� true
+Trackpoint	11 R 373216 3218230		0 m			34 m			143� true
+Trackpoint	11 R 373239 3218227		0 m			23 m			97� true
+Trackpoint	11 R 373261 3218216		0 m			25 m			115� true
+Trackpoint	11 R 373296 3218207		0 m			36 m			104� true
+Trackpoint	11 R 373332 3218202		0 m			36 m			98� true
+Trackpoint	11 R 373368 3218187		0 m			39 m			111� true
+Trackpoint	11 R 373392 3218161		0 m			35 m			137� true
+Trackpoint	11 R 373437 3218160		0 m			45 m			91� true
+Trackpoint	11 R 373440 3218160		0 m			3 m			89� true
+Trackpoint	11 R 373489 3218135		0 m			55 m			117� true
+Trackpoint	11 R 373540 3218115		0 m			55 m			110� true
+Trackpoint	11 R 373588 3218104		0 m			50 m			102� true
+Trackpoint	11 R 373637 3218108		0 m			49 m			84� true
+Trackpoint	11 R 373641 3218108		0 m			4 m			89� true
+Trackpoint	11 R 373700 3218152		0 m			73 m			53� true
+Trackpoint	11 R 373734 3218188		0 m			50 m			43� true
+Trackpoint	11 R 373793 3218238		0 m			77 m			49� true
+Trackpoint	11 R 373809 3218283		0 m			48 m			19� true
+Trackpoint	11 R 373816 3218338		0 m			55 m			6� true
+Trackpoint	11 R 373848 3218374		0 m			48 m			40� true
+Trackpoint	11 R 373885 3218405		0 m			49 m			49� true
+Trackpoint	11 R 373890 3218409		0 m			6 m			55� true
+Trackpoint	11 R 373899 3218418		0 m			12 m			42� true
+Trackpoint	11 R 373907 3218430		0 m			14 m			35� true
+Trackpoint	11 R 373965 3218455		0 m			63 m			66� true
+Trackpoint	11 R 374021 3218493		0 m			68 m			55� true
+Trackpoint	11 R 374118 3218592		0 m			139 m			44� true
+Trackpoint	11 R 374158 3218620		0 m			48 m			55� true
+Trackpoint	11 R 374208 3218651		0 m			59 m			58� true
+Trackpoint	11 R 374288 3218684		0 m			86 m			66� true
+Trackpoint	11 R 374292 3218686		0 m			5 m			71� true
+Trackpoint	11 R 374348 3218698		0 m			57 m			77� true
+Trackpoint	11 R 374412 3218684		0 m			65 m			101� true
+Trackpoint	11 R 374450 3218566		0 m			125 m			162� true
+Trackpoint	11 R 374495 3218555		0 m			46 m			104� true
+Trackpoint	11 R 374560 3218537		0 m			67 m			105� true
+Trackpoint	11 R 374630 3218518		0 m			73 m			104� true
+Trackpoint	11 R 374757 3218565		0 m			135 m			69� true
+Trackpoint	11 R 374922 3218638		0 m			180 m			65� true
+Trackpoint	11 R 375076 3218727		0 m			178 m			59� true
+Trackpoint	11 R 375236 3218761		0 m			163 m			77� true
+Trackpoint	11 R 375391 3218738		0 m			157 m			98� true
+Trackpoint	11 R 375403 3218739		0 m			12 m			85� true
+Trackpoint	11 R 375586 3218785		0 m			189 m			75� true
+Trackpoint	11 R 375752 3218779		0 m			166 m			92� true
+Trackpoint	11 R 375975 3218836		0 m			230 m			75� true
+Trackpoint	11 R 376208 3218915		0 m			247 m			70� true
+Trackpoint	11 R 376357 3219027		0 m			186 m			52� true
+Trackpoint	11 R 376517 3219084		0 m			170 m			70� true
+Trackpoint	11 R 376698 3219064		0 m			182 m			96� true
+Trackpoint	11 R 376897 3219071		0 m			198 m			87� true
+Trackpoint	11 R 377084 3219088		0 m			188 m			84� true
+Trackpoint	11 R 377263 3219056		0 m			181 m			99� true
+Trackpoint	11 R 377421 3219046		0 m			159 m			93� true
+Trackpoint	11 R 377508 3219038		0 m			87 m			94� true
+Trackpoint	11 R 377715 3219032		0 m			207 m			91� true
+Trackpoint	11 R 378003 3219099		0 m			295 m			76� true
+
+Track	Zona 06		0:00:00	5.8 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	11 R 375170 3221689		0 m
+Trackpoint	11 R 373407 3221635		0 m			1.8 km			268� true
+Trackpoint	11 R 371887 3221578		0 m			1.5 km			267� true
+Trackpoint	11 R 370940 3220966		0 m			1.1 km			236� true
+Trackpoint	11 R 369564 3220565		0 m			1.4 km			253� true
+
+Track	Zona 07		0:00:00	8.3 km	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	11 R 368027 3225045		0 m
+Trackpoint	11 R 368101 3225016		0 m			79 m			111� true
+Trackpoint	11 R 368189 3224949		0 m			111 m			127� true
+Trackpoint	11 R 368352 3224933		0 m			164 m			95� true
+Trackpoint	11 R 368494 3224883		0 m			150 m			109� true
+Trackpoint	11 R 368582 3224830		0 m			103 m			121� true
+Trackpoint	11 R 368722 3224722		0 m			177 m			127� true
+Trackpoint	11 R 368758 3224695		0 m			45 m			126� true
+Trackpoint	11 R 368919 3224655		0 m			165 m			103� true
+Trackpoint	11 R 369046 3224638		0 m			128 m			97� true
+Trackpoint	11 R 369109 3224508		0 m			146 m			154� true
+Trackpoint	11 R 369118 3224497		0 m			14 m			140� true
+Trackpoint	11 R 369249 3224451		0 m			138 m			109� true
+Trackpoint	11 R 369265 3224449		0 m			17 m			98� true
+Trackpoint	11 R 369469 3224437		0 m			204 m			93� true
+Trackpoint	11 R 369639 3224464		0 m			171 m			80� true
+Trackpoint	11 R 369823 3224454		0 m			185 m			93� true
+Trackpoint	11 R 369961 3224435		0 m			139 m			97� true
+Trackpoint	11 R 369988 3224432		0 m			27 m			97� true
+Trackpoint	11 R 370133 3224400		0 m			148 m			102� true
+Trackpoint	11 R 370143 3224390		0 m			14 m			135� true
+Trackpoint	11 R 370235 3224267		0 m			154 m			143� true
+Trackpoint	11 R 370240 3224249		0 m			18 m			165� true
+Trackpoint	11 R 370332 3224160		0 m			128 m			133� true
+Trackpoint	11 R 370542 3224109		0 m			216 m			103� true
+Trackpoint	11 R 370718 3224088		0 m			178 m			96� true
+Trackpoint	11 R 370825 3224094		0 m			107 m			86� true
+Trackpoint	11 R 370853 3224138		0 m			53 m			32� true
+Trackpoint	11 R 370841 3224227		0 m			90 m			351� true
+Trackpoint	11 R 370864 3224263		0 m			43 m			33� true
+Trackpoint	11 R 370920 3224310		0 m			74 m			49� true
+Trackpoint	11 R 370936 3224273		0 m			41 m			157� true
+Trackpoint	11 R 371005 3224224		0 m			85 m			125� true
+Trackpoint	11 R 371073 3224199		0 m			73 m			110� true
+Trackpoint	11 R 371217 3224176		0 m			146 m			98� true
+Trackpoint	11 R 371361 3224136		0 m			150 m			105� true
+Trackpoint	11 R 371494 3224097		0 m			138 m			106� true
+Trackpoint	11 R 371691 3224005		0 m			217 m			114� true
+Trackpoint	11 R 371786 3223919		0 m			129 m			131� true
+Trackpoint	11 R 371943 3223871		0 m			164 m			107� true
+Trackpoint	11 R 372128 3223844		0 m			186 m			98� true
+Trackpoint	11 R 372285 3223807		0 m			162 m			103� true
+Trackpoint	11 R 372563 3223819		0 m			278 m			87� true
+Trackpoint	11 R 372760 3223882		0 m			206 m			71� true
+Trackpoint	11 R 372795 3224026		0 m			149 m			13� true
+Trackpoint	11 R 372915 3224207		0 m			218 m			33� true
+Trackpoint	11 R 373014 3224330		0 m			158 m			38� true
+Trackpoint	11 R 373079 3224429		0 m			119 m			32� true
+Trackpoint	11 R 373278 3224534		0 m			225 m			61� true
+Trackpoint	11 R 373503 3224633		0 m			246 m			66� true
+Trackpoint	11 R 373685 3224724		0 m			204 m			63� true
+Trackpoint	11 R 373864 3224872		0 m			233 m			50� true
+Trackpoint	11 R 374052 3225050		0 m			259 m			46� true
+Trackpoint	11 R 374286 3225115		0 m			243 m			74� true
+Trackpoint	11 R 374463 3225252		0 m			224 m			51� true
+Trackpoint	11 R 374755 3225439		0 m			347 m			57� true
+Trackpoint	11 R 374772 3225455		0 m			23 m			47� true
+Trackpoint	11 R 374805 3225479		0 m			41 m			52� true
+Trackpoint	11 R 374844 3225498		0 m			43 m			63� true
+Trackpoint	11 R 374872 3225523		0 m			38 m			47� true
+Trackpoint	11 R 374907 3225550		0 m			44 m			52� true
+Trackpoint	11 R 374940 3225563		0 m			35 m			68� true
+Trackpoint	11 R 374979 3225576		0 m			41 m			71� true
+Trackpoint	11 R 375001 3225591		0 m			27 m			56� true
+Trackpoint	11 R 375023 3225604		0 m			25 m			56� true

@@ -37,3 +37,4 @@ def test_api_check_traps_ids():
 
     response = client.post(**request)
     assert response.status_code == 200
+    assert "La revisión de trampas es correcta" in response.json()["message"]

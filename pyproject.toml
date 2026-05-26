@@ -5,7 +5,7 @@ build-backend = "flit_core.buildapi"
 [tool.flit.metadata]
 author = "Ciencia de Datos • GECI"
 author-email = "ciencia.datos@islas.org.mx"
-classifiers = [ "License :: OSI Approved :: GNU Affero General Public License v3 or later",]
+classifiers = [ "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",]
 description-file = "README.md"
 home-page = "https://github.com/IslasGECI/janitor_api"
 module = "janitor_api"

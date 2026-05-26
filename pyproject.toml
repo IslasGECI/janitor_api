@@ -7,12 +7,12 @@ author = "Ciencia de Datos • GECI"
 author-email = "ciencia.datos@islas.org.mx"
 classifiers = [ "License :: OSI Approved :: GNU General Public License v3 or later (AGPLv3+)",]
 description-file = "README.md"
-home-page = "https://github.com/IslasGECI/dummy_transformations"
-module = "dummy_transformations"
+home-page = "https://github.com/IslasGECI/janitor_api"
+module = "janitor_api"
 requires = [
 ]
 requires-python=">=3.9"
 
 [tool.mutmut]
-paths_to_mutate = [ "dummy_transformations/" ]
+paths_to_mutate = [ "janitor_api/" ]
 tests_dir = [ "tests/" ]

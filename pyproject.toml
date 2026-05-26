@@ -10,6 +10,9 @@ description-file = "README.md"
 home-page = "https://github.com/IslasGECI/janitor_api"
 module = "janitor_api"
 requires = [
+    "fastapi",
+    "httpx",
+    "python-multipart",
 ]
 requires-python=">=3.9"
 
